@@ -1,0 +1,4 @@
+[06-Jun-2021 09:54:46 UTC] PHP Fatal error:  Cannot declare class AddTwoFactorColumnsToUsersTable, because the name is already in use in /home/yallau5/drivers/database/migrations/add-fname-lname.php on line 38
+[06-Jun-2021 09:56:18 UTC] PHP Fatal error:  Cannot declare class AddTwoFactorColumnsToUsersTable, because the name is already in use in /home/yallau5/drivers/database/migrations/add-fname-lname.php on line 38
+[06-Jun-2021 09:58:15 UTC] PHP Fatal error:  Cannot declare class AddTwoFactorColumnsToUsersTable, because the name is already in use in /home/yallau5/drivers/database/migrations/add-fname-lname.php on line 38
+[06-Jun-2021 09:58:21 UTC] PHP Fatal error:  Cannot declare class AddTwoFactorColumnsToUsersTable, because the name is already in use in /home/yallau5/drivers/database/migrations/add-fname-lname.php on line 38
