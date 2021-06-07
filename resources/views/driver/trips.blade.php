@@ -35,7 +35,7 @@ $trips = DB::table('trips')->where('user_id', @Auth::user()->id )->get()
                     </div>
                     <div class="card-body ">
                         <div class="table-scrollable">
-                            <table id="tableExport" style="width: 100%">
+                            <table id="tableExport" class="table table-striped table-bordered" style="width: 100%">
                                 <thead>
                                     <tr>
                                         <th>Trip Id</th>

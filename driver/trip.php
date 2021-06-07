@@ -16,7 +16,7 @@ if ($action != '') {
         $ssql .= " AND Date(t.tTripRequestDate) >='" . $startDate . "'";
     }
     if ($endDate != '') {
-        $ssql .= " AND Date(t.tTripRequestDate) <='" . $endDate . "'";
+        $ssql .= " AND Date(t.tTripRequestDate) <='" . $endDate . "'"; 
     }
 }
 if ($_SESSION['sess_user'] == "driver") {
